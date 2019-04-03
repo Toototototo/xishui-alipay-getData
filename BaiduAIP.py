@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 from aip import AipOcr
-import json
 
 """ 你的 APPID AK SK """
 APP_ID = '15927274'
